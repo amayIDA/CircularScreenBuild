@@ -1,0 +1,68 @@
+{
+    "touch": {
+        "width": 1080,
+        "height": 1080
+    },
+    "led": {
+        "width": 1032,
+        "height": 946
+    },
+    "content": {
+        "width": 1536,
+        "height": 1024
+    },
+    "menu": {
+        "radius": 300.0,
+        "buttonSize": 170.0,
+        "touchRadius": 1400.0,
+        "touchButtonSize": 1034.0,
+        "touchWindowSize": [
+            960.0,
+            960.0
+        ],
+        "touchWindowPosition": [
+            0.0,
+            0.0
+        ],
+        "contentPadding": 72.0,
+        "contentLabelSize": [
+            1400.0,
+            160.0
+        ],
+        "contentLabelOffset": [
+            0.0,
+            -420.0
+        ],
+        "itemContextSize": 96.0
+    },
+    "backgroundAlignment": {
+        "centerX": 0.49000000953674316,
+        "centerY": 0.1899999976158142,
+        "widthFraction": 0.4000000059604645,
+        "ledPhysicalAspect": 1.09089994430542,
+        "touchPhysicalAspect": 1.0,
+        "itemScale": 1.8600000143051147,
+        "backgroundScale": 1.7999999523162842
+    },
+    "touchCanvas": {
+        "background": {
+            "position": [
+                0.0,
+                0.0
+            ],
+            "size": 1.0,
+            "spacing": 0.0
+        },
+        "items": {
+            "position": [
+                0.0,
+                0.0
+            ],
+            "size": 1034.0,
+            "spacing": 1400.0
+        }
+    },
+    "largeLed": {
+        "itemSize": 170.0
+    }
+}
